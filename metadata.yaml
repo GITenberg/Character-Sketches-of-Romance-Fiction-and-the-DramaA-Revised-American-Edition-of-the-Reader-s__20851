@@ -1,0 +1,33 @@
+_repo: Character-Sketches-of-Romance-Fiction-and-the-DramaA-Revised-American-Edition-of-the-Reader-s__20851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brewer, Ebenezer Cobham
+    alias: Brewer, E. Cobham (Ebenezer Cobham)
+    birthdate: 1810
+    deathdate: 1897
+    gutenberg_agent_id: '3978'
+    url: http://www.gutenberg.org/2009/agents/3978
+    wikipedia: http://en.wikipedia.org/wiki/Ebenezer_Cobham_Brewer
+description: '"English and American bibliography" : v.4, p. 285-336; "Authors and
+  dates of dramas and operas" v.4, p.342-384.'
+gutenberg_bookshelf: Reference
+gutenberg_issued: '2007-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Dictionaries'
+- !lcsh 'Fiction -- Dictionaries'
+- !lcc 'PN'
+- !lcsh 'Allusions'
+title: "Character Sketches of Romance, Fiction and the Drama, Vol. 3\r\nA Revised\
+  \ American Edition of the Reader's Handbook"
+url: http://www.gutenberg.org/ebooks/20851
